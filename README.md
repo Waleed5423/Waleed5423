@@ -204,8 +204,6 @@
 </tr>
 </table>
 
-*🔥 Replace REPO_NAME with your best repositories*
-
 </div>
 
 ## 📈 Coding Activity
